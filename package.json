@@ -1,0 +1,29 @@
+{
+  "name": "create-lambda-app",
+  "version": "1.0.0",
+  "description": "Boilerplate for lambda projects",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathameshmhatre/create-lambda-app.git"
+  },
+  "author": "Prathamesh Mhatre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathameshmhatre/create-lambda-app/issues"
+  },
+  "homepage": "https://github.com/prathameshmhatre/create-lambda-app#readme",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.0"
+  }
+}
